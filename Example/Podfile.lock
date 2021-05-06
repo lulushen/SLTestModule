@@ -1,0 +1,16 @@
+PODS:
+  - SLTestModule (0.1.0)
+
+DEPENDENCIES:
+  - SLTestModule (from `../`)
+
+EXTERNAL SOURCES:
+  SLTestModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SLTestModule: 1db17aff6cc073d326941b825ce99a518442f014
+
+PODFILE CHECKSUM: e3dc72b72fc557948c4ee35b4fa4426ec9031c69
+
+COCOAPODS: 1.10.1
